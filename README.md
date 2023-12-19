@@ -16,7 +16,7 @@ To use the Bing Maps API in your project, follow these installation steps:
 1. Install the Bing Maps API package via npm:
 
    ```bash
-   npm install bing-maps-api
+   npm install bingmaps-api
    ```
 
    This command installs the necessary dependencies and sets up the Bing Maps API package in your project.
@@ -24,7 +24,7 @@ To use the Bing Maps API in your project, follow these installation steps:
 2. Include the Bing Maps API in your project:
 
    ```javascript
-   import BingMapsAPI from 'bing-maps-api';
+   import BingMapsAPI from 'bingmaps-api';
    ```
 
    Now, you can use the `BingMapsAPI` class to access the functionality provided by the API.
