@@ -27,5 +27,6 @@
   "bugs": {
     "url": "https://github.com/redyetidev/bingmaps/issues"
   },
-  "homepage": "https://github.com/redyetidev/bingmaps#readme"
+  "homepage": "https://github.com/redyetidev/bingmaps#readme",
+  "types": "types.d.ts"
 }
