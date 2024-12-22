@@ -2,8 +2,6 @@
 > **The following notice must be thoroughly read and understood before using this package.**
 > <br/><br/>
 > This repository was made for education purposes, and follows the guidelines outlined in the [Bing Maps API Documentation](...). I, the author of this repository, am not affiliated with Microsoft in any way, shape, or form. I do not own the Bing Maps API, nor do I claim to. I am not responsible for any damages caused by the use of this repository. Use at your own risk.
-> <br/><br/>
-> Microsoft, if you are viewing this package and would like it removed, I am here to oblige. Please contact me at [hello@onlyaviv.com](mailto:hello@onlyaviv.com) Thank you.
 
 # Bing Maps API
 
