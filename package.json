@@ -16,17 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/redyetidev/bingmaps.git"
+    "url": "git+https://github.com/onlyaviv/bingmaps.git"
   },
   "keywords": [
     "Bing",
     "Maps"
   ],
-  "author": "RedYetiDev",
+  "author": "Aviv Keller",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/redyetidev/bingmaps/issues"
+    "url": "https://github.com/onlyaviv/bingmaps/issues"
   },
-  "homepage": "https://github.com/redyetidev/bingmaps#readme",
+  "homepage": "https://github.com/onlyaviv/bingmaps#readme",
   "types": "types.d.ts"
 }
